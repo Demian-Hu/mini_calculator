@@ -10,7 +10,7 @@
 ## 架构：
 
 项目整体架构如下：
-![架构图](architecture.svg)
+![架构图](architecture.png)
 
 ## 通信：
 

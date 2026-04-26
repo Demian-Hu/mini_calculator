@@ -1,0 +1,2 @@
+source E:/esp/remake/mini_calculator/build/bootloader/gdbinit/symbols
+source E:/esp/remake/mini_calculator/build/bootloader/gdbinit/connect
